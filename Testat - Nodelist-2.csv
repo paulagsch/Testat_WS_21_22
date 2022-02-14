@@ -1,0 +1,62 @@
+id,name short,name,type,sex,birth,position,education,subject,party,religion,kids,twitter,instagram,facebook,youtube
+bs,Strasser,Benjamin Strasser,0,2,1987,1,4,3,4,2,0,5815,3936,3386,288
+ft,Toncar,Florian Toncar,0,2,1979,1,5,3,4,3,3,8599,3071,4477,99
+cl,Lindner,Bundesminister der Finanzen,0,2,1979,3,4,3,4,1,0,,361000,291376,18600
+mt,Theurer,Michael Theurer,0,2,1967,1,4,3,4,3,2,8481,3745,27911,
+jb,Brandenburg,Jens Brandenburg,0,2,1986,1,5,3,4,,0,5411,3330,,
+ck,Kühn,Chris Kuehn,0,2,1979,1,4,2,3,,3,4830,1662,,35
+fb,Branter,Franziska Brantner,0,1,1979,1,5,2,3,,1,14054,4483,2748,36
+coe,Oezdemir,Cem Oesdemir,0,2,1965,3,4,2,3,,2,317820,105000,162551,
+tl,Lindner,Tobias Lindner,0,2,1982,3,5,3,3,,,10578,3617,4920,
+DB,Bundestag,Deutscher Bundestag,1,,1949,,,,,,,15433,8334,3800,85400
+Julis,Julis,Junge Liberale deutschland,1,,1982,,,,4,,,26219,28600,21449,3150
+FDPBV,FDPBV,FDP Bundesvorstand,1,,,,,,4,,,,,,
+FDPSbBlL,FDPSbBlL,FDP-Fraktion für Studium und berufliche Bildung und lebenslanges Lernen,1,,,,,,4,,,,,,
+FDPSuL,FDPSuL,Liberale Schwule und Lesben Deutschland,1,,,,,,4,,,,,1512,
+FDPRA,FDPRA,FDP Ravensburg,1,,,,,,4,,,,,,
+FDPIH,FDPIH,FDP Inneres und Heimat,1,,,,,,4,,,,,,
+FDPDE,FDPDE,Fraktion der freien Demokraten Deutschland,1,,1948,,,,4,,,404279,157000,169746,20200
+FDPBW,FDP BW,FDP Baden Wuerttemberg,1,,1948,,,,4,,,7875,6054,13620,649
+SPDBW,SPD BW,SPD Baden Wuerttemberg,1,,1952,,,,2,,,10979,2482,13796,606
+SPDDE,SPD DE,SPD Deutschland,1,,1863,,,,2,,,418952,92700,86237,
+GRP,Gruene RP,Gruene Rheinland Pfalz,1,,1979,,,,3,,,4948,2386,4843,284
+GPG,Parlamentarische Gescheaftsführung der Fraktion Buendnis 90 die Gruene,Parlamentarische Gescheaftsführung der Fraktion Buendnis 90 die Gruene,1,,,,,,3,,,,,,
+GJBW,GJ BW,Gruene Jugend Baden Wuerttemberg,1,,,,,,3,,,3586,3933,3511,127
+GJDE,GJ DE,Gruene Jugend Deutschland,1,,1994,,,,3,,,73627,53500,15115,824
+GKuF,GKuF,Kinder- und Familienpolitik der Bundestagsfraktion Gruenen,1,,,,,,3,,,,,,
+GBauWoh,GBauWoh,Gruene Bauen und Wohnen,1,,,,,,3,,,,,,
+GSW,Gruene Sued West,Gruene Sued West,1,,,,,,3,,,,,,
+GBW,Gruene BW,Gruene Baden Wuerttemberg,1,,1979,,,,3,,,8466,827,17818,1050
+GTUE,Gruene Tuebingen,Gruenen tuebingen,1,,,,,,3,,,331,827,820,
+GDE,Gruene Deutschland,Gruene Deutschland,1,,1980,,,,3,,,631930,226000,229569,24800
+BIH,BIH,Bundesministerium für Inneres und Heimat,1,,1949,,,,,,,161489,,,4140
+AA,Auswaertiges Amt,Auswaerties Amt,1,,1970,,,,,,,,322000,327017,9910
+WA,WA,Wirtschaftsausschuss,1,,,,,,,,,,,,
+VA,VA,Verteidigungsausschuss,1,,,,,,,,,,,,
+BfEL,BfEL,Bundesministerium fuer Ernaehrung und Landwirtschaft,1,,,,,,,,,59269,37300,,
+AuVuI,AuVuI,Ausschuss fuer Verkehr unddigitale Infrastruktur,1,,,,,,,,,,,,
+UZK,UZK,"Unterausschusses Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln",1,,,,,,,,,,,,
+BfWuK,BfWuK,Bundesministerium für Wirtschaft und Klimaschutz,1,,1917,,,,,,,106057,18800,63794,6940
+AURuV,AURuV,Ausschuss Recht und Verbraucherschutz,1,,,,,,,,,,,,
+HAA,Haushalt Bundestag,Haushalt Bundestag,1,,,,,,,,,,,,
+BfUNnSV,Bundesministerium Umwelt,Bundesministerium für Umwelt und Naturschutz und nukleare Sicherheit und Verbraucherschutz,1,,1986,,,,,,,174743,,,
+BBF,Bildung und Forschung,Bundesminiterium fuer Bildung und Forschung,1,,1955,,,,,,,71591,29800,24513,
+LBBW,LBBW,Landesbank BW,1,,1998,,,,,,,1488,,,153
+BfDuV,BfDuV,Bundesministerium fuer Digitales und Verkehr,1,,1949,,,,,,,50583,37200,10934,2630
+EP,Europa Parlament,Europaeisches Parlament,1,,1952,,,,,,,94908,12800,23510,390
+LBW,Landtag BW,Landtag Baden Wuerttemberg,1,,1946,,,,,,,2112,4501,13677,610
+BMCO,BMCO,Bundesmusikverband Chor und Orchester,1,,2019,,,,,,,410,1617,2396,60
+BdJ,Justiz,Bundesministerium der Justiz,1,,1877,,,,,,,,,,
+KfW,KfW,Kreditinstitut fuer den Wiederaufbau,1,,1948,,,,,,,19656,7348,686,9550
+FdB,FdB,Finanzgremium des Bundestages,1,,,,,,,,,,,,
+RE,Uni Regensburg,Uni Regensburg,1,,1962,,,,,,,1308,16200,6695,709
+CA,Camebridge,University of Camebridge,1,,1209,,,,,,,658246,1000000,2429080,357000
+HD,Heidelberg,Universitaet Heidelberg,1,,1386,,,,,,,24377,16000,59981,
+TUE,Tuebingen,Universitaet Tuebingen,1,,1477,,,,,,,18033,15800,26988,3080
+DIG,DIG,Deutsche Israelische Gesellschaft,1,,1966,,,,,,,6200,299,6524,42
+AI,Amnesty,Amnesty International,1,,1961,,,,,,,1900000,929000,2623575,99900
+DTFS,DTFS,Deutsch Türkisches Forum Stuttgart,1,,1999,,,,,,,830,2085,8194,386
+HBS,Heinrich Boell Stiftung,Heinrich Boell Stiftung,1,,1986,,,,,,,50243,29100,91905,18500
+BMS,Bertelsmann,Bertelsmann Stiftung,1,,1977,,,,,,,20186,1814,14012,12200
+DAS,AIDS,Deutsche Aids Stiftung,1,,1987,,,,,,,1302,1076,7876,145
+RMS,Reinhold Maier,Reinhold Maier Stiftung,1,,1977,,,,,,,,760,,
