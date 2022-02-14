@@ -1,0 +1,32 @@
+"Nodelist:
+KA = keine Angabe
+id ist das Kuerzel
+name_short ist der Nachname einer Person oder kurze Bezeichnung einer Organisation
+name ist der voller Name
+type definiert ""0 = Person, 1 = Organisation/Ort/Verband ""
+sex definiert ""1 = weiblich, 2 = männlich, 3 = divers""
+birth ist das Geburtsjahr bei Personen und Gründungsjahr bei Organisationen
+position definiert ""1 = Staatssekretär, 2 = Abgeordneter, 3 = Minister""
+education definiert ""1 = kein Abschluss, 2 = Realschule, 3 =Abitur, 4 = Bachelor/Master/Staatsexamen/Diplom/Magister , 5 = Doktor, 6 = Professor""
+subject definiert""1= naturwissenschaftlich, 2 = geisteswissenschaftlich, 3 = sonstiges""
+party definiert ""1 = CDU/CSU, 2 = SPD, 3 = Bündnis 90/die Grünen, 4 = FDP, 5 = AFD, 6 = sonstige""
+religion definiert ""1 = keine Religion, 2 = katholisch, 3 = evangelisch, 4 = muslimisch, 5 = jüdusch, 6 = anderes""
+kids definiert Anzahl der Kinder
+twitter definiert Anzahl der Follower auf Twitter
+instagram definiert Anzahl der Follower auf Instagram
+facebook definiert Anzahl der Follower auf Facebook
+youtube definiert Anzahl der Follower auf Youtube
+Edgelist:
+from bedeutet von
+to bedeutet zu
+relationship ist die Art der Beziehung
+year fediniert wann es passiertist
+1 definiert als Ministerium (auch Staatssekretär)
+2 definiert als politische Funktionen
+3 definiert als Ehrenamt
+4 definiert als Unternehmen und Aufsichtsräte
+5 definiert als Stipendien
+6 definiert als Berufstätigkeiten
+7 definiert als Studienort
+8 definiert als sonstiges
+"

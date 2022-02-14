@@ -1,0 +1,62 @@
+id,name short,name,type,sex,birth,position,education,subject,party,religion,kids,twitter,instagram,facebook,youtube
+bs,Strasser,Benjamin Strasser,0,2,1987,1,4,3,4,2,0,5815,3936,3386,288
+ft,Toncar,Florian Toncar,0,2,1979,1,5,3,4,3,3,8599,3071,4477,99
+cl,Lindner,Bundesminister der Finanzen,0,2,1979,3,4,3,4,1,0,KA,361000,291376,18600
+mt,Theurer,Michael Theurer,0,2,1967,1,4,3,4,3,2,8481,3745,27911,KA
+jb,Brandenburg,Jens Brandenburg,0,2,1986,1,5,3,4,KA,0,5411,3330,KA,KA
+ck,Kühn,Chris Kuehn,0,2,1979,1,4,2,3,KA,3,4830,1662,KA,35
+fb,Branter,Franziska Brantner,0,1,1979,1,5,2,3,KA,1,14054,4483,2748,36
+coe,Oezdemir,Cem Oesdemir,0,2,1965,3,4,2,3,KA,2,317820,105000,162551,KA
+tl,Lindner,Tobias Lindner,0,2,1982,3,5,3,3,KA,KA,10578,3617,4920,KA
+DB,Bundestag,Deutscher Bundestag,1,KA,1949,KA,KA,KA,KA,KA,KA,15433,8334,3800,85400
+Julis,Julis,Junge Liberale deutschland,1,KA,1982,KA,KA,KA,4,KA,KA,26219,28600,21449,3150
+FDPBV,FDPBV,FDP Bundesvorstand,1,KA,KA,KA,KA,KA,4,KA,KA,KA,KA,KA,KA
+FDPSbBlL,FDPSbBlL,FDP-Fraktion für Studium und berufliche Bildung und lebenslanges Lernen,1,KA,KA,KA,KA,KA,4,KA,KA,KA,KA,KA,KA
+FDPSuL,FDPSuL,Liberale Schwule und Lesben Deutschland,1,KA,KA,KA,KA,KA,4,KA,KA,KA,KA,1512,KA
+FDPRA,FDPRA,FDP Ravensburg,1,KA,KA,KA,KA,KA,4,KA,KA,KA,KA,KA,KA
+FDPIH,FDPIH,FDP Inneres und Heimat,1,KA,KA,KA,Ka,KA,4,KA,KA,KA,KA,KA,KA
+FDPDE,FDPDE,Fraktion der freien Demokraten Deutschland,1,KA,1948,KA,KA,KA,4,KA,KA,404279,157000,169746,20200
+FDPBW,FDP BW,FDP Baden Wuerttemberg,1,KA,1948,KA,KA,KA,4,KA,KA,7875,6054,13620,649
+SPDBW,SPD BW,SPD Baden Wuerttemberg,1,KA,1952,KA,KA,KA,2,KA,KA,10979,2482,13796,606
+SPDDE,SPD DE,SPD Deutschland,1,KA,1863,KA,KA,KA,2,KA,KA,418952,92700,86237,KA
+GRP,Gruene RP,Gruene Rheinland Pfalz,1,KA,1979,KA,KA,KA,3,KA,KA,4948,2386,4843,284
+GPG,Parlamentarische Gescheaftsführung der Fraktion Buendnis 90 die Gruene,Parlamentarische Gescheaftsführung der Fraktion Buendnis 90 die Gruene,1,KA,KA,KA,KA,KA,3,KA,KA,KA,KA,KA,KA
+GJBW,GJ BW,Gruene Jugend Baden Wuerttemberg,1,KA,KA,KA,KA,KA,3,KA,KA,3586,3933,3511,127
+GJDE,GJ DE,Gruene Jugend Deutschland,1,KA,1994,KA,KA,KA,3,KA,KA,73627,53500,15115,824
+GKuF,GKuF,Kinder- und Familienpolitik der Bundestagsfraktion Gruenen,1,KA,KA,KA,KA,KA,3,KA,KA,KA,KA,KA,KA
+GBauWoh,GBauWoh,Gruene Bauen und Wohnen,1,KA,KA,KA,KA,KA,3,KA,KA,KA,KA,KA,KA
+GSW,Gruene Sued West,Gruene Sued West,1,KA,KA,KA,KA,KA,3,KA,KA,KA,KA,KA,KA
+GBW,Gruene BW,Gruene Baden Wuerttemberg,1,KA,1979,KA,KA,KA,3,KA,KA,8466,827,17818,1050
+GTUE,Gruene Tuebingen,Gruenen tuebingen,1,KA,KA,KA,KA,KA,3,KA,KA,331,827,820,KA
+GDE,Gruene Deutschland,Gruene Deutschland,1,KA,1980,KA,KA,KA,3,KA,KA,631930,226000,229569,24800
+BIH,BIH,Bundesministerium für Inneres und Heimat,1,KA,1949,KA,KA,KA,KA,KA,KA,161489,KA,KA,4140
+AA,Auswaertiges Amt,Auswaerties Amt,1,KA,1970,KA,KA,KA,KA,KA,KA,KA,322000,327017,9910
+WA,WA,Wirtschaftsausschuss,1,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA
+VA,VA,Verteidigungsausschuss,1,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA
+BfEL,BfEL,Bundesministerium fuer Ernaehrung und Landwirtschaft,1,KA,KA,KA,KA,KA,KA,KA,KA,59269,37300,KA,KA
+AuVuI,AuVuI,Ausschuss fuer Verkehr unddigitale Infrastruktur,1,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA
+UZK,UZK,"Unterausschusses Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln",1,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA
+BfWuK,BfWuK,Bundesministerium für Wirtschaft und Klimaschutz,1,KA,1917,KA,KA,KA,KA,KA,KA,106057,18800,63794,6940
+AURuV,AURuV,Ausschuss Recht und Verbraucherschutz,1,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA
+HAA,Haushalt Bundestag,Haushalt Bundestag,1,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA
+BfUNnSV,Bundesministerium Umwelt,Bundesministerium für Umwelt und Naturschutz und nukleare Sicherheit und Verbraucherschutz,1,KA,1986,KA,KA,KA,KA,KA,KA,174743,KA,KA,KA
+BBF,Bildung und Forschung,Bundesminiterium fuer Bildung und Forschung,1,KA,1955,KA,KA,KA,KA,KA,KA,71591,29800,24513,KA
+LBBW,LBBW,Landesbank BW,1,KA,1998,KA,KA,KA,KA,KA,KA,1488,KA,KA,153
+BfDuV,BfDuV,Bundesministerium fuer Digitales und Verkehr,1,KA,1949,KA,KA,KA,KA,KA,KA,50583,37200,10934,2630
+EP,Europa Parlament,Europaeisches Parlament,1,KA,1952,KA,KA,KA,KA,KA,KA,94908,12800,23510,390
+LBW,Landtag BW,Landtag Baden Wuerttemberg,1,KA,1946,KA,KA,KA,KA,KA,KA,2112,4501,13677,610
+BMCO,BMCO,Bundesmusikverband Chor und Orchester,1,KA,2019,KA,KA,KA,KA,KA,KA,410,1617,2396,60
+BdJ,Justiz,Bundesministerium der Justiz,1,KA,1877,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA
+KfW,KfW,Kreditinstitut fuer den Wiederaufbau,1,KA,1948,KA,KA,KA,KA,KA,KA,19656,7348,686,9550
+FdB,FdB,Finanzgremium des Bundestages,1,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA,KA
+RE,Uni Regensburg,Uni Regensburg,1,KA,1962,KA,KA,KA,KA,KA,KA,1308,16200,6695,709
+CA,Camebridge,University of Camebridge,1,KA,1209,KA,KA,KA,KA,KA,KA,658246,1000000,2429080,357000
+HD,Heidelberg,Universitaet Heidelberg,1,KA,1386,KA,KA,KA,KA,KA,KA,24377,16000,59981,KA
+TUE,Tuebingen,Universitaet Tuebingen,1,KA,1477,KA,KA,KA,KA,KA,KA,18033,15800,26988,3080
+DIG,DIG,Deutsche Israelische Gesellschaft,1,KA,1966,KA,KA,KA,KA,KA,KA,6200,299,6524,42
+AI,Amnesty,Amnesty International,1,KA,1961,KA,KA,KA,KA,KA,KA,1900000,929000,2623575,99900
+DTFS,DTFS,Deutsch Türkisches Forum Stuttgart,1,KA,1999,KA,KA,KA,KA,KA,KA,830,2085,8194,386
+HBS,Heinrich Boell Stiftung,Heinrich Boell Stiftung,1,KA,1986,KA,KA,KA,KA,KA,KA,50243,29100,91905,18500
+BMS,Bertelsmann,Bertelsmann Stiftung,1,KA,1977,KA,KA,KA,KA,KA,KA,20186,1814,14012,12200
+DAS,AIDS,Deutsche Aids Stiftung,1,KA,1987,KA,KA,KA,KA,KA,KA,1302,1076,7876,145
+RMS,Reinhold Maier,Reinhold Maier Stiftung,1,KA,1977,KA,KA,KA,KA,KA,KA,KA,760,KA,KA
